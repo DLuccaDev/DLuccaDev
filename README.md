@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou Gabriel de Lucca👋
 
-<!--
-**DLuccaDev/DLuccaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por [Tecnologia/Área].
 
-Here are some ideas to get you started:
+## Projetos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Projeto 1](https://github.com/DLuccaDev/projeto-links) - Pojeto feito para linkar as resdes sociais em um só lugar.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=light)
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-santiago-35116b292/)
+- [Instagram](https://www.instagram.com/o.dlucca)
+- [Email](lucca.digitalweb@gmail.com)
