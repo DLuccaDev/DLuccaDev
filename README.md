@@ -1,4 +1,4 @@
-# Olá! Eu sou Gabriel Santiago👋
+# Olá! Eu sou Gabriel de Lucca👋
 
 Desenvolvedor apaixonado por [Tecnologia/Área].
 
